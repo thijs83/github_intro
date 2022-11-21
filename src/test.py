@@ -1,4 +1,4 @@
 
-string = "hello world"
+string1 = "hello world"
 
-print(string)
+print(string1)
